@@ -7,4 +7,4 @@ plt.figure(1)
 plt.clf()
 plt.plot(x,y,label="y=f(x)")
 plt.legend()
-plt.show()        #check image plot2.jpg for output
+plt.show()        
